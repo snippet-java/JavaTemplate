@@ -10,7 +10,7 @@
 		<relativePath></relativePath>
 	</parent>
 
-	<artifactId>Snippet</artifactId>
+	<artifactId>{{name}}</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
