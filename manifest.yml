@@ -1,8 +1,8 @@
 ---
 applications:
-- path: target/Snippet.war
-  name: Snippet-${random-word}
-  host: Snippet-${random-word}
+- path: target/{{name}}.war
+  name: {{name}}
+  host: {{name}}-${random-word}
   memory: 256M
   instances: 1
   domain: mybluemix.net
