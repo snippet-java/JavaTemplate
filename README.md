@@ -1,6 +1,6 @@
 # Steps to deploy:
 - At the root folder, run "mvn package". Once completed, you should see a "target" folder
-generated containing a war file named "JavaWatsonLangTranslation" and other folders.
+generated containing a war file and other folders.
 - Open the manifest.yml, and edit the appname or hostname if necessary
 - Run "cf push"
 
