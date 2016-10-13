@@ -74,7 +74,7 @@
 					<artifactId>maven-war-plugin</artifactId>
 					<configuration>
 						<failOnMissingWebXml>false</failOnMissingWebXml>
-						<warName>JavaWatsonLangTranslation</warName>
+						<warName>Snippet</warName>
 					</configuration>
 				</plugin>
 				<plugin>
