@@ -10,7 +10,7 @@
 		<relativePath></relativePath>
 	</parent>
 
-	<artifactId>{{name}}</artifactId>
+	<artifactId>test</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -74,7 +74,7 @@
 					<artifactId>maven-war-plugin</artifactId>
 					<configuration>
 						<failOnMissingWebXml>false</failOnMissingWebXml>
-						<warName>{{name}}</warName>
+						<warName>test</warName>
 					</configuration>
 				</plugin>
 				<plugin>
